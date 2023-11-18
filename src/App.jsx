@@ -49,10 +49,9 @@ function App() {
 
 	return (
 		<div>
-			<h1>Test change!</h1>
-			{/* <Header course={course} />
+			<Header course={course} />
 			<Content parts={course.parts} />
-			<Total parts={course.parts} /> */}
+			<Total parts={course.parts} />
 		</div>
 	);
 }
